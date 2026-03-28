@@ -1,0 +1,106 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "2aadd9e3-2bfe-497d-a8fd-989f3df9f29b")
+	(paper "A4")
+	(lib_symbols)
+	(text "Off-grid Solar Li-ion Power Menagment Board(with BMS and 5V@2.5A Output)"
+		(exclude_from_sim no)
+		(at 60.198 18.796 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "30cfb7c9-c493-499f-aa33-bb2b3a6cd454")
+	)
+	(text_box "Introduction\n"
+		(exclude_from_sim no)
+		(at 21.59 24.13 0)
+		(size 86.36 59.69)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "0404133e-bb00-4541-afb4-74814aa7fe9b")
+	)
+	(text_box "Used componensts:"
+		(exclude_from_sim no)
+		(at 21.59 92.71 0)
+		(size 87.63 59.69)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "1e599377-9fe7-45f6-a19e-c3bfec6bc66d")
+	)
+	(sheet
+		(at 111.76 160.02)
+		(size 33.02 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0337dd67-fd68-4054-81f4-598c6b73ddbb")
+		(property "Sheetname" "OUT_Buck"
+			(at 111.76 159.3084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 111.76 189.8146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DL_solar_charger"
+				(path "/2aadd9e3-2bfe-497d-a8fd-989f3df9f29b"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

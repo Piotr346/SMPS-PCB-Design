@@ -1,0 +1,6 @@
+(design_block_lib_table
+  (version 7)
+  (lib (name "IPD50N04S4L-08")(type "KiCad")(uri "C:/Users/toder/Desktop/kicad_symbols/IPD50N04S4L-08")(options "")(descr "")(disabled))
+  (lib (name "IPD50N04S4L-08.pretty")(type "KiCad")(uri "C:/Users/toder/Desktop/kicad_symbols/IPD50N04S4L-08.pretty")(options "")(descr ""))
+  (lib (name "IRLML6344TRPBF")(type "KiCad")(uri "C:/Users/toder/Documents/KiCad/kicad_symbols/IRLML6344TRPBF")(options "")(descr ""))
+)
