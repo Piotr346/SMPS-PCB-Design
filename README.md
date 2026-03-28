@@ -1,2 +1,2 @@
 # SMPS-PCB-Design
-itch-mode power supply design
+Switch-mode power supply design
